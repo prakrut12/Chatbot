@@ -90,3 +90,4 @@ if st.button("Ask"):
                     st.error(f"Error: {e}")
             else:
                 st.info("No data found in the database.")
+
